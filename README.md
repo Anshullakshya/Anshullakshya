@@ -14,4 +14,3 @@ I’m currently pursuing my *Master’s in Computer Applications* at Ajeenkya DY
 
 ---
 
-Feel free to adjust the links to match your profiles! This should give your GitHub visitors a quick, friendly overview of who you are and what you're working on.
